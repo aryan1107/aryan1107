@@ -4,7 +4,7 @@
 <img align="right" alt="Trooper" width="400" src="https://media.giphy.com/media/pGRYKh7FTWmhpeDIJc/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan1107&label=Profile%20views&color=0e75b6&style=flat" alt="aryan1107" /> </p>
 
-- 🔭 I’m currently working on **Uoft HCDS lab**
+- 🔭 I’m currently working on **Various Side Projects**
 
 - 🌱 I’m currently learning **Tensorflow, Typescript**
 
