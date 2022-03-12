@@ -1,6 +1,6 @@
 [![MasterHead](https://media.giphy.com/media/RS7r6LMUvAJ1EYNg3q/giphy.gif)]
 <h1 align="center">Hi 👋, I'm Aryan Chaurasia</h1>
-<h3 align="center">I young-dumb student I love Exploratory data analysis, front end development and Swift for IOS apps.</h3>
+<h3 align="center">I young-dumb student I love Exploratory data analysis, front end development.</h3>
 <img align="right" alt="Trooper" width="400" src="https://media.giphy.com/media/pGRYKh7FTWmhpeDIJc/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan1107&label=Profile%20views&color=0e75b6&style=flat" alt="aryan1107" /> </p>
 
