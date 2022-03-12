@@ -1,4 +1,4 @@
-<!-- [![MasterHead](https://media.giphy.com/media/RS7r6LMUvAJ1EYNg3q/giphy.gif)] -->
+![MasterHead](https://github.com/aryan1107/aryan1107/blob/main/AI_designing-with-data.gif)
 <h1 align="center">Hi 👋, I'm Aryan Chaurasia</h1>
 <h3 align="center">I am a young-dumb student, I love Exploratory data analysis & front end development.</h3>
 <img align="right" alt="Trooper" width="300" src="https://media.giphy.com/media/pGRYKh7FTWmhpeDIJc/giphy.gif">
