@@ -24,6 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan1107&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aryan1107" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan1107&show_icons=true&locale=en&theme=tokyonight" alt="aryan1107" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan1107&&theme=tokyonight" alt="aryan1107" /></p>
