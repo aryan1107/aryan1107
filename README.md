@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan1107&label=Profile%20views&color=0e75b6&style=flat" alt="aryan1107" /> </p>
 
-- 🔭 I’m currently working on **Various Side Projects**
+- 🔭 I’m currently working on **UofT HCDS Lab & Various Side Projects**
 
 - 🌱 I’m currently learning **Tensorflow,Deep learning, Typescript**
 
