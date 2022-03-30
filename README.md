@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan1107&label=Profile%20views&color=0e75b6&style=flat" alt="aryan1107" /> </p>
 
-- 🔭 I’m currently working at **HCDS Lab @ Uoft, LIT by Google & Tensorflow Model Remediation**
+- 🔭 I’m currently working on **HCDS Lab @ Uoft, LIT & Tensorflow Model Remediation**
 
 - 🌱 I’m currently learning **Tensorflow,Deep learning, Typescript**
 
