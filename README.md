@@ -13,8 +13,7 @@
 
 - 💬 Ask me about **Vue**
 
-- 📫 How to reach me: **aryan.chaurasia[@]mail.utoronto.[ca]**
-
+- 📫 How to reach me: <a href="mailto: aryan.chaurasia[@]mail.utoronto.[ca]">My email!</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
