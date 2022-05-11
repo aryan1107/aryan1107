@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **HCDS Lab @ Uoft, LIT & Tensorflow Model Remediation**
 
-- 🌱 I’m currently learning **Tensorflow,Deep learning, Typescript**
+- 🌱 I’m currently learning **NLP, (RNN) Recurrent neural network**
 
-- 🤝 I’m looking for help with **Deep learning**
+- 🤝 I’m looking for help with **Deep learning in general!**
 
 - 💬 Ask me about **Vue**
 
