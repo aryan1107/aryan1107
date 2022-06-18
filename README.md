@@ -5,13 +5,11 @@
 
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=aryan1107&label=Profile%20views&color=0e75b6&style=flat" alt="aryan1107" /> </p>
 
-- 🔭 I’m currently working on **XAI Models for LIT**
+- 🔭 I’m currently working on **[XAI Models for LIT](https://github.com/PAIR-code/lit)**
 
 - 🌱 I’m currently learning **NLP, (RNN) Recurrent neural network**
 
 - 🤝 I’m looking for help with **Deep learning in general!**
-
-- 💬 Ask me about **Vue**
 
 - 📫 How to reach me: <a href="mailto: aryan.chaurasia[@]mail.utoronto.[ca]">My email!</a>
 
