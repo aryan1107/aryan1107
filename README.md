@@ -29,4 +29,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan1107&&theme=tokyonight" alt="aryan1107" /></p>
 
-<img src="https://raw.githubusercontent.com/aryan1107/aryan1107/output/github-contribution-grid-snake.svg" />
