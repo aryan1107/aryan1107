@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **[XAI Models for 🔥LIT](https://github.com/PAIR-code/lit)**
 
-- 🌱 I’m currently learning **NLP, Data Structures & Algorithms**
+- 🌱 I’m currently learning **NLP, Data Structures & Algorithms (DSA)**
 
 - 🤝 I’m looking for help with **Deep learning in general!**
 
