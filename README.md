@@ -5,7 +5,7 @@
 
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=aryan1107&label=Profile%20views&color=0e75b6&style=flat" alt="aryan1107" /> </p>
 
-- 🔭 I’m currently working on **[Aiwriter.me &  apps](https://apps.apple.com/us/app/ai-writer/id6444013958?platform=mac)**
+- 🔭 I’m currently working on **[Aiwriter.me &  apps](https://aiwriter.me)**
 
 - 🌱 I’m currently learning **Swift, Haskell, Data Structures & Algorithms (DSA)**
 
