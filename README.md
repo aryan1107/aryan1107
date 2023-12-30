@@ -3,7 +3,7 @@
 <h3 align="center">I am a young-dumb student, I love NLP, Software Development & Exploratory data analysis.</h3>
 <img align="right" alt="Trooper" width="250" src="https://media.giphy.com/media/pGRYKh7FTWmhpeDIJc/giphy.gif">
 
-<p align="left"> <img  src="https://komarev.com/ghpvc/?username=aryan1107&label=Profile%20views&color=0e75b6&style=flat" alt="aryan1107" /> </p>
+<p align="left"> <img  src="https://komarev.com/ghpvc/?username=aryan1107&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 - 🔭 I’m currently working on **[Building a Better Search](https://brutusai.com)**
 
