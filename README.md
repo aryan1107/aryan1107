@@ -11,4 +11,4 @@
 
 - 🤝 I’m looking for help with **Deep learning in general!**
 
-- 📫 How to reach me: <a href="mailto: aryan.chaurasia[@]mail.utoronto.[ca]">My email!</a>
+- 📫 How to reach me: <a href="mailto: aryan.chaurasia[@]alumni.utoronto.[ca]">My email!</a>
